@@ -1,0 +1,190 @@
+279,"document_type","=","RE",,,,0,0,"testingssssssssss","string","y",0,0,0,0
+227,"amount","<","00000010000","00000000000","single",,0,0,,"number","n",0,0,0,0
+227,"currency","=","INR",,"single",,0,0,,"string","n",0,0,0,0
+227,"document_type","=","RE",,"single",,0,0,,"string","n",0,0,0,0
+227,"npo","=","y",,"single",,0,0,,"string","n",0,0,0,0
+234,"amount","<","00000500000","00000000000","single",,0,0,,"number","n",1,1,1,0
+234,"currency","=","EUR",,"single",,0,0,,"string","n",1,1,1,0
+234,"document_type","=","RE",,"single",,0,0,,"string","n",1,1,1,0
+234,"vendor_no","=","2000000126",,"single",,0,0,,"string","n",1,1,1,0
+238,"amount","<","00000100000","00000000000","single",,0,0,,"number","n",0,0,0,0
+238,"currency","=","EUR",,"single",,0,0,,"string","n",0,0,0,0
+238,"document_type","=","RE",,"single",,0,0,,"string","n",0,0,0,0
+238,"vendor_no","=","2000000085",,"single",,0,0,,"string","n",0,0,0,0
+241,"cost_center","=","1004",,"single",,0,0,,"string","n",0,0,0,0
+241,"document_type","=","RE",,"single",,0,0,,"string","n",0,0,0,0
+242,"document_type","=","RE",,"single",,0,0,,"string","n",0,0,0,0
+242,"gl_account","=","113400",,"single",,0,0,,"string","n",0,0,0,0
+243,"document_type","=","RE",,"single",,0,0,,"string","n",0,0,0,0
+243,"item_category","=","9",,"single",,0,0,,"string","n",0,0,0,0
+244,"amount","<","00000000500","00000000000","single",,0,0,"Alghanim less than 500KWD No Approval needed","number","n",0,0,0,0
+244,"currency","=","KWD",,"single",,0,0,"Alghanim less than 500KWD No Approval needed","string","n",0,0,0,0
+244,"document_type","=","RE",,"single",,0,0,"Alghanim less than 500KWD No Approval needed","string","n",0,0,0,0
+244,"npo","=","y",,"single",,0,0,"Alghanim less than 500KWD No Approval needed","string","n",0,0,0,0
+275,"document_type","=","RE",,"single",,0,0,"Maheshwari","string","y",0,0,0,0
+275,"vendor_no","=","150805",,"single",,0,0,"Maheshwari","string","y",0,0,0,0
+276,"document_type","=","RE",,"single",,0,0,"MAK Plywood","string","y",0,0,0,0
+276,"vendor_no","=","150806",,"single",,0,0,"MAK Plywood","string","y",0,0,0,0
+277,"document_type","=","RE",,"single",,0,0,"Savitri woods","string","y",0,0,0,0
+277,"vendor_no","=","150807",,"single",,0,0,"Savitri woods","string","y",0,0,0,0
+239,"amount",">","00000100000","00000000000","parallel",,0,0,,"number","n",0,0,0,0
+239,"currency","=","EUR",,"parallel",,0,0,,"string","n",0,0,0,0
+239,"document_type","=","RE",,"parallel",,0,0,,"string","n",0,0,0,0
+239,"vendor_no","=","2000000085",,"parallel",,0,0,,"string","n",0,0,0,0
+266,"amount","between","00000000001","00001000000","parallel",,0,0,,"number","n",0,0,0,0
+266,"currency","=","USD",,"parallel",,0,0,,"string","n",0,0,0,0
+266,"document_type","=","RE",,"parallel",,0,0,,"string","n",0,0,0,0
+266,"vendor_no","=","3000",,"parallel",,0,0,,"string","n",0,0,0,0
+228,"amount",">","00000010000","00000000000","series",,0,0,"Alghanim More than 10000KWD 3 level approval","number","y",0,0,0,0
+228,"currency","=","KWD",,"series",,0,0,"Alghanim More than 10000KWD 3 level approval","string","y",0,0,0,0
+228,"department_id","=","127",,"series",,0,0,"Alghanim More than 10000KWD 3 level approval","string","y",0,0,0,0
+228,"document_type","=","RE",,"series",,0,0,"Alghanim More than 10000KWD 3 level approval","string","y",0,0,0,0
+229,"amount","between","00000001000","00000010000","series",,0,0,"Alghanim Inv betweet 1K-10K KWD","number","y",0,0,0,0
+229,"currency","=","KWD",,"series",,0,0,"Alghanim Inv betweet 1K-10K KWD","string","y",0,0,0,0
+229,"department_id","=","127",,"series",,0,0,"Alghanim Inv betweet 1K-10K KWD","string","y",0,0,0,0
+229,"document_type","=","RE",,"series",,0,0,"Alghanim Inv betweet 1K-10K KWD","string","y",0,0,0,0
+230,"amount","between","00000001000","00000010000","series",,0,0,"1K-10K USD","number","y",4,2,4,2
+230,"currency","=","USD",,"series",,0,0,"1K-10K USD","string","y",4,2,4,2
+230,"department_id","=","127",,"series",,0,0,"1K-10K USD","string","y",4,2,4,2
+230,"document_type","=","RE",,"series",,0,0,"1K-10K USD","string","y",4,2,4,2
+231,"amount",">","00000010000","00000000000","series",,0,0,"More than 10k USD","number","y",0,0,0,0
+231,"currency","=","USD",,"series",,0,0,"More than 10k USD","string","y",0,0,0,0
+231,"department_id","=","127",,"series",,0,0,"More than 10k USD","string","y",0,0,0,0
+231,"document_type","=","RE",,"series",,0,0,"More than 10k USD","string","y",0,0,0,0
+232,"amount","<","00000001001","00000000000","series",,0,0,,"number","y",0,0,0,0
+232,"currency","=","KWD",,"series",,0,0,,"string","y",0,0,0,0
+232,"department_id","=","127",,"series",,0,0,,"string","y",0,0,0,0
+232,"document_type","=","KG",,"series",,0,0,,"string","y",0,0,0,0
+233,"amount",">","00000001001","00000000000","series",,0,0,,"number","y",0,0,0,0
+233,"currency","=","KWD",,"series",,0,0,,"string","y",0,0,0,0
+233,"department_id","=","127",,"series",,0,0,,"string","y",0,0,0,0
+233,"document_type","=","KG",,"series",,0,0,,"string","y",0,0,0,0
+236,"amount",">","00000500000","00000000000","series",,0,0,,"number","n",0,0,0,0
+236,"currency","=","EUR",,"series",,0,0,,"string","n",0,0,0,0
+236,"document_type","=","RE",,"series",,0,0,,"string","n",0,0,0,0
+236,"vendor_no","=","2000000126",,"series",,0,0,,"string","n",0,0,0,0
+253,"amount",">","00000010000","00000000000","series",,0,0,,"number","y",0,0,0,0
+253,"currency","=","KWD",,"series",,0,0,,"string","y",0,0,0,0
+253,"department_id","=","128",,"series",,0,0,,"string","y",0,0,0,0
+253,"document_type","=","RE",,"series",,0,0,,"string","y",0,0,0,0
+254,"amount","between","00000001000","00000010000","series",,0,0,,"number","y",0,0,0,0
+254,"currency","=","KWD",,"series",,0,0,,"string","y",0,0,0,0
+254,"department_id","=","128",,"series",,0,0,,"string","y",0,0,0,0
+254,"document_type","=","RE",,"series",,0,0,,"string","y",0,0,0,0
+255,"amount",">","00000010000","00000000000","series",,0,0,,"number","y",0,0,0,0
+255,"currency","=","USD",,"series",,0,0,,"string","y",0,0,0,0
+255,"department_id","=","128",,"series",,0,0,,"string","y",0,0,0,0
+255,"document_type","=","RE",,"series",,0,0,,"string","y",0,0,0,0
+256,"amount","between","00000001000","00000010000","series",,0,0,,"number","y",0,0,0,0
+256,"currency","=","USD",,"series",,0,0,,"string","y",0,0,0,0
+256,"department_id","=","128",,"series",,0,0,,"string","y",0,0,0,0
+256,"document_type","=","RE",,"series",,0,0,,"string","y",0,0,0,0
+257,"amount","<","00000001001","00000000000","series",,0,0,,"number","y",0,0,0,0
+257,"currency","=","KWD",,"series",,0,0,,"string","y",0,0,0,0
+257,"document_type","=","KG",,"series",,0,0,,"string","y",0,0,0,0
+258,"amount",">","00000001001","00000000000","series",,0,0,,"number","y",0,0,0,0
+258,"currency","=","KWD",,"series",,0,0,,"string","y",0,0,0,0
+258,"department_id","=","128",,"series",,0,0,,"string","y",0,0,0,0
+258,"document_type","=","KG",,"series",,0,0,,"string","y",0,0,0,0
+267,"document_type","=","RE",,"series",,0,0,"Huawei 3 way match Inv","string","n",0,0,0,0
+267,"vendor_no","=","2000000140",,"series",,0,0,"Huawei 3 way match Inv","string","n",0,0,0,0
+198,"document_type","=","RE","","","",0,0,"","string","y",0,0,0,0
+199,"document_type","=","RE","","","",0,0,"test","string","y",0,0,0,0
+199,"invoice_value","=","00002000000","00000000000","","",0,0,"test","number","y",0,0,0,0
+199,"currency","=","AFN","","","",0,0,"test","string","y",0,0,0,0
+200,"document_type","=","RE","","","",0,0,"test01","string","y",0,0,0,0
+200,"invoice_value",">","00003000000","00000000000","","",0,0,"test01","number","y",0,0,0,0
+200,"currency","=","AED","","","",0,0,"test01","string","y",0,0,0,0
+201,"document_type","=","RE","","","",0,0,"test","string","y",0,0,0,0
+201,"invoice_value","between","00000012345","00000054321","","",0,0,"test","number","y",0,0,0,0
+201,"currency","=","CHF","","","",0,0,"test","string","y",0,0,0,0
+202,"document_type","=","RE","","","",0,0,"","string","y",0,0,0,0
+202,"invoice_value","<","00000900000","00000000000","","",0,0,"","number","y",0,0,0,0
+202,"currency","=","BGL","","","",0,0,"","string","y",0,0,0,0
+155,"document_type","=","RE","","","",0,0,"pramod test","string","y",0,0,0,0
+155,"invoice_value","=","00098765432","00000000000","","",0,0,"pramod test","number","y",0,0,0,0
+155,"currency","=","INR","","","",0,0,"pramod test","string","y",0,0,0,0
+156,"document_type","=","RE","","","",0,0,"pramod_test_02","string","y",0,0,0,0
+156,"invoice_value",">","00000999999","00000000000","","",0,0,"pramod_test_02","number","y",0,0,0,0
+156,"currency","=","AFA","","","",0,0,"pramod_test_02","string","y",0,0,0,0
+157,"document_type","=","RE","","","",0,0,"test05","string","y",0,0,0,0
+157,"invoice_value","=","00000123456","00000000000","","",0,0,"test05","number","y",0,0,0,0
+157,"currency","=","AOR","","","",0,0,"test05","string","y",0,0,0,0
+45,"document_type","=","RE",,"series","",165,1,"Rule for invoice amount more than 2Lac","string","y",6,2,6,2
+45,"amount","between","00000000100","00000000200","series","",165,1,"Rule for invoice amount more than 2Lac","number","y",6,2,6,2
+45,"currency","=","INR","","series","",165,1,"Rule for invoice amount more than 2Lac","string","y",6,2,6,2
+400,"vendor_no","=","1002","","single","",0,0,"","string","y",0,0,0,0
+404,"vendor_no","=","1002","","single","",0,0,"","string","y",0,0,0,0
+404,"document_type","=","RE","","single","",0,0,"","string","y",0,0,0,0
+405,"document_type","=","RE","","single","",0,0,"hjhj","string","y",0,0,0,0
+405,"vendor_no","=","111123","","single","",0,0,"hjhj","string","y",0,0,0,0
+406,"document_type","=","RE","","single","",0,0,"","string","y",0,0,0,0
+406,"cost_center","=","1001","","single","",0,0,"","string","y",0,0,0,0
+407,"document_type","=","SU","","single","",0,0,"test hii","string","y",4,3,6,5
+407,"cost_center","=","1004","","single","",0,0,"test hii","string","y",4,3,6,5
+408,"vendor_no","=","2000000147","","single","",0,0,"","string","y",0,0,0,0
+408,"document_type","=","RE","","single","",0,0,"","string","y",0,0,0,0
+409,"department_id","=","2","","single","",0,0,"","string","y",0,0,0,0
+409,"document_type","=","KG","","single","",0,0,"","string","y",0,0,0,0
+410,"document_type","=","KG","","series","",0,0,"","string","y",0,0,0,0
+410,"gl_account","=","111000","","series","",0,0,"","string","y",0,0,0,0
+413,"amount","between","00000002000","00000002999","parallel","",0,0,"","number","y",0,0,0,0
+413,"currency","=","AFA","","parallel","",0,0,"","string","y",0,0,0,0
+413,"document_type","=","SU","","parallel","",0,0,"","string","y",0,0,0,0
+214,"document_type","=","SU","","","",0,0,"cccccc","string","y",0,0,0,0
+215,"document_type","=","SU","","","",0,0,"cccccc","string","y",0,0,0,0
+216,"document_type","=","SU","","","",0,0,"cccccc","string","y",0,0,0,0
+217,"document_type","=","SU","","","",0,0,"cccccc","string","y",0,0,0,0
+218,"document_type","=","SU","","","",0,0,"cccccc","string","y",0,0,0,0
+218,"jurisdiction_code","=","330612010","","","",0,0,"cccccc","string","y",0,0,0,0
+219,"document","=","SU","","","",0,0,"cccccc","string","y",0,0,0,0
+219,"jurisdiction","=","330612010","","","",0,0,"cccccc","string","y",0,0,0,0
+221,"docum","=","SU","","","",0,0,"cccccc","string","y",0,0,0,0
+221,"jurisdict","=","330612010","","","",0,0,"cccccc","string","y",0,0,0,0
+469,"document_type","=","KG","","","",0,0,"comment","string","y",0,0,0,0
+469,"invoice_value","between","00000000100","00000000200","","",0,0,"comment","number","y",0,0,0,0
+469,"currency","=","AFN","","","",0,0,"comment","string","y",0,0,0,0
+472,"document_type","=","SU","","","",0,0,"comment","string","y",0,0,0,0
+472,"jurisdiction_code","=","55","","","",0,0,"comment","string","y",0,0,0,0
+471,"default_assignment","undefined","undefined",,"","",0,0,"NA","null","y",0,0,0,0
+37,"default","","","","parallel","",4,1,"Default Rule","","y",6,2,6,2
+222,"document_type","=","Debit Memo",,"single","null",0,0,"Debit Note","string","y",0,0,0,0
+483,"department_id","=","49","","single","",0,0,"","string","y",6,5,8,7
+483,"document_type","=","SU","","single","",0,0,"","string","y",6,5,8,7
+485,"","=","undefined",,"single","",0,0,"","string","y",7,6,5,4
+485,"document_type","=","RE",,"single","",0,0,"","string","y",7,6,5,4
+486,"gl_account","=","113400","","single","",0,0,"","string","y",7,6,5,4
+486,"document_type","=","Debit Memo",,"single","",0,0,"","string","y",7,6,5,4
+486,"amount","<","00000000000","00000000000","single","",0,0,"","number","y",7,6,5,4
+486,"cost_center","=","1004","","single","",0,0,"","string","y",7,6,5,4
+486,"currency","=","ANG","","single","",0,0,"","string","y",7,6,5,4
+486,"department_id","=","54","","single","",0,0,"","string","y",7,6,5,4
+484,"department_id","=","50","","single","",0,0,"","string","y",8,7,10,9
+484,"document_type","=","RE","","single","",0,0,"","string","y",8,7,10,9
+487,"jurisdiction_code","=","CA0017000","","single","",0,0,"","string","y",7,6,5,4
+487,"document_type","=","RE","","single","",0,0,"","string","y",7,6,5,4
+489,"jurisdiction_code","=","330612010","","single","",0,0,"","string","y",7,6,5,4
+489,"document_type","=","RE","","single","",0,0,"","string","y",7,6,5,4
+467,"document_type","=","KG",,"","",0,0,"cccc","string","y",0,0,0,0
+467,"invoice_value",">","00000000010","0000000None","","",0,0,"cccc","number","y",0,0,0,0
+467,"currency","=","INR",,"","",0,0,"cccc","string","y",0,0,0,0
+491,"item_category","=","0","","single","",0,0,"test elipo 1","string","y",0,0,0,0
+492,"cost_center","=","1000","","single","",0,0,"test 2","string","y",0,0,0,0
+493,"cost_center","=","1000","","single","",0,0,"test 3","string","y",5,0,4,0
+493,"document_type","=","RE","","single","",0,0,"test 3","string","y",5,0,4,0
+494,"cost_center","=","1004","","single","",0,0,"test 3","string","y",3,0,7,0
+494,"item_category","=","0","","single","",0,0,"test 3","string","y",3,0,7,0
+495,"cost_center","=","1005","","single","",0,0,"test 4","string","y",6,5,10,9
+495,"item_category","=","1","","single","",0,0,"test 4","string","y",6,5,10,9
+496,"department_id","=","55","","single","",0,0,"test 4","string","y",0,0,3,4
+496,"item_category","=","1","","single","",0,0,"test 4","string","y",0,0,3,4
+497,"department_id","=","55","","single","",0,0,"test 4","string","y",0,0,0,0
+497,"jurisdiction_code","=","330612010","","single","",0,0,"test 4","string","y",0,0,0,0
+235,"currency","=","AFA",,"","",0,0,"This Assignment rule is use to assign invoices Invoice between 1L and 9L INR to Validator test group;;;","string","y",0,0,0,0
+235,"document_type","=","SU",,"","",0,0,"This Assignment rule is use to assign invoices Invoice between 1L and 9L INR to Validator test group;;;","string","y",0,0,0,0
+235,"vendor_no","=","100567",,"","",0,0,"This Assignment rule is use to assign invoices Invoice between 1L and 9L INR to Validator test group;;;","string","y",0,0,0,0
+235,"invoice_value","between","00000000009","00000000099","","",0,0,"This Assignment rule is use to assign invoices Invoice between 1L and 9L INR to Validator test group;;;","number","y",0,0,0,0
+235,"jurisdiction_code","=","55",,"","",0,0,"This Assignment rule is use to assign invoices Invoice between 1L and 9L INR to Validator test group;;;","string","y",0,0,0,0
+42,"department","=","X-Cite Department ",,"parallel","",0,0,"optional]]","string","y",10,1,22,2
+42,"document_type","=","Invoice",,"parallel","",0,0,"optional]]","string","y",10,1,22,2
+42,"npo","=","y",,"parallel","",0,0,"optional]]","string","y",10,1,22,2
